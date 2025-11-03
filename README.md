@@ -1,2 +1,29 @@
-# current-openings
-Live tech openings curated by Priya Bency Vargheese | Freelance Tech Recruiter
+<img src="https://github.com/priya-techrecruiter/current-openings/blob/main/current-openings-banner.png?raw=true" alt="Current Tech Openings Banner" width="100%">
+
+# 💼 Current Tech Openings  
+
+Welcome! 👋  
+Here you’ll find my **latest active roles** across the IT and tech community  
+
+Each listing includes detailed job descriptions, required skills, and application information.  
+Click on any role below to view the full details 👇  
+
+---
+
+### 🔹 [Lead AI / ML Engineer](./lead-ai-ml-engineer.md)
+### 🔹 [Platform Software Developer](./platform-software-developer.md)
+### 🔹 [RRM Software Developer](./rrm-software-developer.md)
+### 🔹 [Software Developer– 5G NR & LTE](./software-developer-5g-nr-&-lte.md)
+### 🔹 [Senior Engineer– Protocol Test Tool](./senior-engineer-protocol-test-tool.md)
+
+---
+
+📨 **Apply or Refer Talent:**  
+Please submit profiles through the [Open Tech Talent Pool](https://github.com/priya-techrecruiter/open-talent-pool).  
+All submissions remain **confidential** and are reviewed directly by me.
+
+---
+
+✨ *This page is updated regularly as new roles open up. Bookmark or follow for the latest opportunities!*
+
+
