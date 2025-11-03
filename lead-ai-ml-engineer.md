@@ -1,11 +1,15 @@
 # 🧠Lead AI / ML Engineer  
 
-**Company:** Building custom Agentic AI solutions for healthcare—reducing cost of care and elevating patient & caregiver experience.
+## Company: Building custom Agentic AI solutions for healthcare—reducing cost of care and elevating patient & caregiver experience.
 
 **Role:** Lead AI/ML Engineer
+
 **Location:** Pune/Ahmedabad (onsite, 5 days/week)
+
 **Experience:** 5–12 years total (core hands-on 5–8 years)
+
 **Notice Period:** Up to 60 days
+
 
 ## What you’ll do
 
