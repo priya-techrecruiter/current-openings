@@ -4,7 +4,7 @@
 
 **Role:** Lead AI/ML Engineer
 
-**Location:** Pune/Ahmedabad (onsite, 5 days/week)
+**Location:** Pune/Ahmedabad (onsite)
 
 **Experience:** 5–12 years total (core hands-on 5–8 years)
 
