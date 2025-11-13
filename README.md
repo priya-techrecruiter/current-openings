@@ -10,7 +10,7 @@ Click on any role below to view the full details 👇
 
 ---
 
-### 🔹 [Lead AI / ML Engineer](./lead-ai-ml-engineer.md)
+<!-- ### 🔹 [AI / ML Engineer](./ai-ml-engineer.md) -->
 ### 🔹 [Platform Software Developer](./platform-software-developer.md)
 ### 🔹 [RRM Software Developer](./rrm-software-developer.md)
 ### 🔹 [Software Developer– 5G NR & LTE](./software-developer-5g-nr-&-lte.md)
