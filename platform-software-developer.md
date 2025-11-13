@@ -31,7 +31,7 @@ future-ready solutions for next-generation communication technologies.
 ---
 
 ### 🌟 Requirments
-- Bachelor’s degree in Computer Science or Engineering (top institutes preferred).
+- Bachelor’s degree in Computer Science or Engineering.
 - Strong development experience in Core C# and .NET APIs.
 - Hands-on expertise with TDD and unit testing frameworks.
 - Sound understanding of software architecture, design patterns, SOLID principles, and clean code.
