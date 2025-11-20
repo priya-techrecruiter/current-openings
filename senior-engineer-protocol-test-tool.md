@@ -31,6 +31,6 @@ A leading global organization in test and measurement solutions is expanding its
 ---
 
 📨 **Apply / Refer:**  
-Use the [Open Tech Talent Pool](https://github.com/priya-techrecruiter/open-talent-pool) to submit resumes or referrals.
+Use the [Open Tech Talent Pool](https://priya-techrecruiter.github.io/open-talent-pool) to submit resumes or referrals.
 
 ⬅️ [Back to Current Openings](./README.md)
