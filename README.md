@@ -1,5 +1,3 @@
-<img src="https://github.com/priya-techrecruiter/current-openings/blob/main/current-openings-banner.png?raw=true" alt="Current Tech Openings Banner" width="100%">
-
 # 💼 Current Tech Openings  
 
 Welcome! 👋  
