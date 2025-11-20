@@ -24,4 +24,8 @@ All submissions remain **confidential** and are reviewed directly by me.
 
 ✨ *This page is updated regularly as new roles open up. Bookmark or follow for the latest opportunities!*
 
+🔗 Learn more about me → [Priya Tech Recruiter GitHub Profile](https://github.com/priya-techrecruiter)
+
+---
+
 
