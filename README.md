@@ -17,7 +17,7 @@ Click on any role below to view the full details 👇
 ---
 
 📨 **Apply or Refer Talent:**  
-Please submit profiles through the [Open Tech Talent Pool](https://github.com/priya-techrecruiter/open-talent-pool).  
+Please submit profiles through the [Open Tech Talent Pool](https://priya-techrecruiter.github.io/open-talent-pool).  
 All submissions remain **confidential** and are reviewed directly by me.
 
 ---
